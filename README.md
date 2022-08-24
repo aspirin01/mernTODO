@@ -1,11 +1,4 @@
 # mernTODO
-Todo List, created in MERN.
+Todo List, created in MERN stack.
 
-
-Check it out live, 
-create, delete any todos, make any todo list by updating the URL end, to the desired name of the list.
-
-https://merntodo-production.up.railway.app/
-
-
-Do Not Span It.
+Create, delete any todos, make any todo list by updating the URL end, to the desired name of the list.
